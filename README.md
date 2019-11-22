@@ -5,5 +5,7 @@ As a part of ["Computational Neuroscience"](https://www.coursera.org/learn/compu
 * **Information theory, and Neural Coding**: Plotting the tuning curves of neurons in the cercal organs of a cricket insect (Launch, and interact with the Jupyter Notebook by clicking on the Binder logo below - [Information theory, and Neural Coding.ipynb](https://mybinder.org/v2/gh/artisticsynapse/Computational-Neuroscience-Python-Code/master?filepath=Information%20theory%2C%20and%20Neural%20Coding.ipynb)): <br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artisticsynapse/Computational-Neuroscience-Python-Code/8a8ea0d3992fd080a90d926126825814744223bf) 
 
+**Note:** The problem statements were framed by the course instructors (Adrienne Fairhall and Rajesh Rao) as a part of the course, and the data (which was used in solving the problem statement) provided was either taken from reference textbooks (in this case, "Theoretical Neuroscience" by Peter Dayan), or experimental data. 
+
 
 
