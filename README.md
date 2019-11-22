@@ -1,7 +1,6 @@
 # Computational-Neuroscience-Python-Code
 As a part of "Computational Neuroscience" course offered by University of Washington, Seatlle, on Coursera, I've exercised coding in Python for solving questions in the course. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artisticsynapse/Computational-Neuroscience-Python-Code/master?filepath=Information%20theory%2C%20and%20Neural%20Coding.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artisticsynapse/Computational-Neuroscience-Python-Code/8a8ea0d3992fd080a90d926126825814744223bf)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/artisticsynapse/Computational-Neuroscience-Python-Code/master?filepath=Information%20theory%2C%20and%20Neural%20Coding.ipynb
+https://mybinder.org/v2/gh/artisticsynapse/Computational-Neuroscience-Python-Code/8a8ea0d3992fd080a90d926126825814744223bf
